@@ -9,6 +9,6 @@ Client<br>
 使用axios串接後端API<br>
 <br>
 Server<br>
-後端使用node.js & express.js <br>
+後端使用node.js & express.js<br>
 資料庫<br>
 mongoose連接mongo DB atlas
