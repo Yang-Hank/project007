@@ -5,8 +5,8 @@
 3.搜尋課程<br>
 <br>
 Client<br>
-前端使用React<br>
-使用axios串接<br>
+前端使用React框架<br>
+使用axios串接後端API<br>
 <br>
 Server<br>
 後端使用node.js & express.js <br>
